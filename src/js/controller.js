@@ -101,4 +101,3 @@ const init = function () {
   addRecipeView.addHandlerUpload(controlAddRecipe);
 };
 init();
-// window.addEventListener('hashchange', showRecipe);
